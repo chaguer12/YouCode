@@ -12,7 +12,7 @@ int main()
     scanf("%c",&t);
     printf("Ecrivez votre nom: \n");
     scanf("%s",&n);
-    printf("Ecrivez votre prénom: \n");
+    printf("Ecrivez votre prÃ©nom: \n");
     scanf("%s",&p);
     printf("Ecrivez votre sexe: \n");
     scanf("%s",&sexe);
@@ -23,6 +23,7 @@ int main()
     printf("SEXE:%s \n",sexe);
     printf("TEL:%c \n",t);
     printf("AGE:%i \n",A);
+    //comment
 
 
     return 0;
